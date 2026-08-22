@@ -206,3 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 knowledge_base.json
+
+# Custom
+sql_app.db
+*.db
+.DS_Store
+node_modules/
